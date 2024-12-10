@@ -1,5 +1,7 @@
 # Teachy AI Challenge
 
+![](banner-teachy.png)
+
 ## General Instructions
 
 1. Fork this repository and develop what is asked bellow.
