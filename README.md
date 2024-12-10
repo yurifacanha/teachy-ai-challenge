@@ -11,6 +11,8 @@
 
 
 You'll create a Proof of Concept of a pipeline that extracts questions from entrance exams PDFs.
+You should use the same pipeline for all input PDFs, but you can pass different parameters for each pdf if needed.
+Write a script that given a folder with PDFs and optionally config files, read the PDFs and extract each question as a JSON object.
 
 There are two types of questions. You should consider:
 - Multiple Choice Questions:
