@@ -14,10 +14,12 @@ There are two types of questions. You should consider:
 - Multiple Choice Questions:
     - These questions are composed of two elements:
       - Statement
+      - Support Text (optional) // a literary piece or other text that is referenced in the question but is not a direct part of the statement
       - Alternatives
 - Open Ended Questions:
     - These questions are composed of one elements:
       - Statement
+      - Support Text (optional)
 
 PoC's Specifications:
 
@@ -25,14 +27,14 @@ PoC's Specifications:
 - Accept PDF inputs
 - Extract the aforementioned components of each type of question
 - Extract Support Text for questions
-- Extract images and link them to their question(s)
+- Extract images and link them to their question(s) 
 - Support exams that have a two-column layout
 - Enumerate Questions correctly
-- Question carry over from one page to the next
 
 ### NICE TO HAVEs:
 - Represent Equations correctly in LaTeX
 - Represent Chemical Formulas correctly
+- Support questions where the text is split between consecutive pages or consecutive columns
 
 Example JSON of a question should look like this:
 
@@ -43,7 +45,7 @@ Example JSON of a question should look like this:
   "statement": "...",
   "Alternatives": ["...", "...", "...", "..."],
   "image": "link to image, if there's an image associated with the question",
-  "suport_text": "Suport Text if there's a support text associeated with the question"
+  "support_text": "Support Text if there's a support text associeated with the question"
 }
 ```
 
@@ -51,9 +53,9 @@ Example JSON of a question should look like this:
 
 You'll receive 10 entrance exams PDFs. Your output should be:
 1. The code that you wrote for extracting questions out of these PDFs
-2. Your reasoning explanaied in the readme
-3. 10 folders, one for each exam, each one with JSONs of questions for that exam
+2. Your reasoning explained in the readme
+3. 10 directories, one for each exam, each one with JSONs of questions for that exam
 
-Feel free to reach out for any questions that you may have about the challenge!
+Feel free to reach out for any questions about the challenge!
 
 Best of Luck!
