@@ -1,0 +1,226 @@
+[
+    {
+        "index": 11,
+        "statement": "Considere um arranjo experimental, representado na figura, em que um \u00edm\u00e3 pode se movimentar ao longo das retas \\( AB \\) ou \\( A'B' \\), sempre com velocidade constante \\((v \\ll c)\\). Uma espira retangular de auto-indut\u00e2ncia desprez\u00edvel \u00e9 posicionada perpendicularmente a \\( AB \\). Pelo centro da espira, o ponto \\( P \\), passam as retas \\( AB \\) e \\( A'B' \\). A corrente el\u00e9trica na espira, observada desde a perspectiva de um observador no ponto \\( A \\), \u00e9 positiva, por conven\u00e7\u00e3o, se estiver no sentido hor\u00e1rio. O polo norte do \u00edm\u00e3 sempre aponta ou para \\( A \\) ou para \\( A' \\). A respeito da situa\u00e7\u00e3o f\u00edsica descrita, s\u00e3o feitas as seguintes afirma\u00e7\u00f5es: I. Quando o \u00edm\u00e3 se desloca de \\( A \\) para \\( P \\), a corrente na espira \u00e9 negativa. II. No momento em que o centro do \u00edm\u00e3 passa pelo ponto \\( P \\), a corrente na espira \u00e9 zero. III. Durante a passagem do \u00edm\u00e3 de \\( A \\) para \\( B \\), haver\u00e1 dois picos de corrente medidos. IV. Quando o \u00edm\u00e3 passa por \\( A'B' \\), a corrente m\u00e1xima na espira \u00e9 maior do que a corrente m\u00e1xima quando o \u00edm\u00e3 passa por \\( AB \\). Das afirma\u00e7\u00f5es I a IV, acima destacadas, est\u00e3o corretas",
+        "options": [
+            {
+                "order": "A",
+                "value": "apenas I, III."
+            },
+            {
+                "order": "B",
+                "value": "apenas II, III."
+            },
+            {
+                "order": "C",
+                "value": "todas."
+            },
+            {
+                "order": "D",
+                "value": "apenas III."
+            },
+            {
+                "order": "E",
+                "value": "apenas I."
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 12,
+        "statement": "A todo instante, raios c\u00f3smicos atingem a atmosfera terrestre e colidem com n\u00facleos at\u00f4micos. Dessas intera\u00e7\u00f5es, \u00e9 formada uma cascata de part\u00edculas que permeia nossa atmosfera. Muitas dessas part\u00edculas s\u00e3o inst\u00e1veis, o que significa que, ap\u00f3s determinado intervalo de tempo (tempo de vida), elas decaem. Seja um m\u00faon criado a uma altitude de 100 km e que se movimenta com uma velocidade vertical em dire\u00e7\u00e3o ao solo de \\(0,9999c\\). Sabendo que seu tempo de vida, em repouso, \u00e9 de \\(2,2 \\, \\mu s\\), a m\u00ednima altitude que essa part\u00edcula atinge, aproximadamente, \u00e9 de",
+        "options": [
+            {
+                "order": "A",
+                "value": "0 km."
+            },
+            {
+                "order": "B",
+                "value": "0,66 km."
+            },
+            {
+                "order": "C",
+                "value": "46 km."
+            },
+            {
+                "order": "D",
+                "value": "53 km."
+            },
+            {
+                "order": "E",
+                "value": "99 km."
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 13,
+        "statement": "A respeito de Adelaide, uma das personagens femininas de Os ratos, de Dyon\u00e9lio Machado, \u00e9 correto afirmar que",
+        "options": [
+            {
+                "order": "A",
+                "value": "ela \u00e9 fr\u00e1gil e ing\u00eanua, caracter\u00edsticas que agradam ao protagonista, pois alimentam seu amor por ela."
+            },
+            {
+                "order": "B",
+                "value": "\u00e9 financeiramente independente do marido e protagonista do romance."
+            },
+            {
+                "order": "C",
+                "value": "sua fraqueza e ingenuidade servem para que o protagonista justifique seus pr\u00f3prios fracassos."
+            },
+            {
+                "order": "D",
+                "value": "ela se sente inferiorizada diante de outras mulheres presentes no romance."
+            },
+            {
+                "order": "E",
+                "value": "Adelaide n\u00e3o exige do marido luxos que ele n\u00e3o conseguiria entregar, apenas o suficiente para alimentar a fam\u00edlia."
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 14,
+        "statement": "Em rela\u00e7\u00e3o \u00e0 linguagem de Os ratos, de Dyon\u00e9lio Machado, \u00e9 correto afirmar que ela",
+        "options": [
+            {
+                "order": "A",
+                "value": "respeita completamente a norma culta, como no seguinte exemplo: \u201cPassando um mercadinho \u2013 \u00e9 um pequeno escrit\u00f3rio: uma porta e uma janela. Ao lado da porta, uma placa quadrada, de ferro esmaltado. Eles entram. \u2013 Me chame o seu Fernandes \u2013 diz o Duque para um menino que se acha sentado \u00e0 escrivaninha.\u201d (p. 86)."
+            },
+            {
+                "order": "B",
+                "value": "\u00e9 \u00e1gil e r\u00e1pida, adequada ao ritmo intenso da narrativa, como no seguinte exemplo: \u201cEntrando pouco a pouco na calma outra vez. Raciocina. \u00c9 conveniente comprar fichas. Com quinze mil r\u00e9is em fichas j\u00e1 tem margem pra muito jogo. Encaminha-se para o guich\u00ea. Volta com uma pilha de rodelas na m\u00e3o.\u201d (p. 63)."
+            },
+            {
+                "order": "C",
+                "value": "desrespeita a norma culta e ainda \u00e9 lenta e entediante, como no seguinte exemplo: \u201cOuve-se um baque, l\u00e1 fora. Eles levantam a cabe\u00e7a, atentos. \u2013 \u00c9 o port\u00e3ozinho. \u2013 Deixa que eu vou fechar \u2013 e Naziazeno se ergue vivamente. \u2013 Bota o casaco. \u2013 N\u00e3o precisa. \u2013 E sai.\u201d (p. 113)."
+            },
+            {
+                "order": "D",
+                "value": "embora apresente elementos de oralidade, n\u00e3o \u00e9 totalmente coloquial, distinguindo a palavra do narrador e das personagens, como no seguinte exemplo: \u201cN\u00e3o enxerga o Duque nos lugares habituais... E, entretanto, \u00e9 a \u2018hora dele\u2019.\u201d (p. 30)."
+            },
+            {
+                "order": "E",
+                "value": "jamais apresenta uso de discurso direto. Por exemplo: \u201cEle se senta. Dirige-lhes duas ou tr\u00eas palavras. \u2013 O Naziazeno tem um grande aperto hoje \u2013 informa-lhe Alcides.\u201d"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 15,
+        "statement": "Leia atentamente os versos destacados de \u201cCanto ao homem do povo Charlie Chaplin\u201d, de Carlos Drummond de Andrade. Em seguida, assinale a alternativa correta.",
+        "options": [
+            {
+                "order": "A",
+                "value": "a linguagem \u00e9 pouco elaborada, pois visa a descrever materialmente a realidade, desprovida de qualidades est\u00e9ticas."
+            },
+            {
+                "order": "B",
+                "value": "s\u00e3o versos livres, de ritmo fluido, nos quais a elabora\u00e7\u00e3o da linguagem busca tirar os objetos cotidianos da banalidade."
+            },
+            {
+                "order": "C",
+                "value": "a dimens\u00e3o est\u00e9tica do cotidiano \u00e9 apagada pela fama da pessoa a quem o poema \u00e9 dedicado, elogiada nos versos."
+            },
+            {
+                "order": "D",
+                "value": "a m\u00e9trica desses versos \u00e9 r\u00edgida, para imitar a forma geom\u00e9trica dos objetos descritos."
+            },
+            {
+                "order": "E",
+                "value": "o uso das rimas raras e de ritmo afastado da linguagem comum transfigura a realidade material em uma dimens\u00e3o est\u00e9tica rebuscada, de dif\u00edcil acesso para o leitor."
+            }
+        ],
+        "type": 0,
+        "background_text": "E falam as flores que tanto amas quando pisadas, falam os tocos de vela, que comes na extrema pen\u00faria, falam a mesa, os bot\u00f5es, os instrumentos do of\u00edcio e as mil coisas aparentemente fechadas, cada tro\u00e7o, cada objeto do s\u00f3t\u00e3o, quanto mais obscuros mais falam."
+    },
+    {
+        "index": 16,
+        "statement": "Leia o trecho destacado do conto \u201cTempo de camisolinha\u201d, de M\u00e1rio de Andrade, e, em seguida, assinale a alternativa incorreta.",
+        "options": [
+            {
+                "order": "A",
+                "value": "os pescadores \u201cn\u00e3o se amolavam proletariamente\u201d com os pr\u00f3prios filhos porque a sua obriga\u00e7\u00e3o prolet\u00e1ria era apenas garantir o sustento das pr\u00f3prias fam\u00edlias."
+            },
+            {
+                "order": "B",
+                "value": "o uso de \u201cseu dot\u00f4\u201d \u00e9 justificado para expressar a fala supostamente informal dos pescadores para atribuir prest\u00edgio ao pai do narrador."
+            },
+            {
+                "order": "C",
+                "value": "o trecho destacado sugere uma posi\u00e7\u00e3o espec\u00edfica do narrador, distante tanto dos \u201cprolet\u00e1rios\u201d quanto dos \u201cdoutores\u201d retratados."
+            },
+            {
+                "order": "D",
+                "value": "os pescadores davam muita import\u00e2ncia ao \u201cfilho do dot\u00f4\u201d porque o consideravam mais vulner\u00e1vel do que os seus pr\u00f3prios filhos."
+            },
+            {
+                "order": "E",
+                "value": "n\u00e3o h\u00e1, no uso da express\u00e3o \u201cseu dot\u00f4\u201d, nenhuma men\u00e7\u00e3o \u00e0 diferen\u00e7a de classes sociais."
+            }
+        ],
+        "type": 0,
+        "background_text": "Estavam uns pescadores ali mesmo na esquina, conversando, e me meti no meio deles, sempre era uma prote\u00e7\u00e3o. E todos eles eram casados, tinham filhos, n\u00e3o se amolavam proletariamente com os filhos, mas proletariamente davam muita import\u00e2ncia pra o filhinho de \u2018seu dot\u00f4\u2019 meu pai, que nem era doutor, gra\u00e7as a Deus.\u201d (p. 106)."
+    },
+    {
+        "index": 17,
+        "statement": "Leia atentamente as declara\u00e7\u00f5es de I a III, que tratam da poesia de Carlos Drummond de Andrade. Em seguida, assinale a alternativa correta.",
+        "options": [
+            {
+                "order": "A",
+                "value": "I \u00e9 correta."
+            },
+            {
+                "order": "B",
+                "value": "II \u00e9 correta."
+            },
+            {
+                "order": "C",
+                "value": "III \u00e9 correta."
+            },
+            {
+                "order": "D",
+                "value": "Todas s\u00e3o corretas."
+            },
+            {
+                "order": "E",
+                "value": "Nenhuma \u00e9 correta."
+            }
+        ],
+        "type": 0,
+        "background_text": "I. O poeta transita entre a constru\u00e7\u00e3o gramatical normativa e o experimentalismo modernista com a linguagem, o que pode ser verificado nos seguintes versos: \u201ccamabel camabel o vale ecoa/ sobre o vazio de ondali/ a noite asf\u00e1ltica/ plkx\u201d (\u201cOs materiais da vida\u201d).\n\nII. A linguagem, na poesia de Drummond, vale-se quase sempre de coloquialismos e desvios gramaticais, subvertendo a norma culta por completo, o que pode ser verificado nos seguintes versos: \u201cLutar com palavras/ \u00e9 a luta mais v\u00e3./ Entanto lutamos mal rompe a manh\u00e3.\u201d (\u201cO lutador\u201d).\n\nIII. Drummond segue \u00e0 risca a gram\u00e1tica normativa, da qual rigorosamente nunca diverge, o que pode ser verificado nos seguintes versos: \u201cNo meio do caminho tinha uma pedra/ tinha uma pedra no meio do caminho/ tinha uma pedra/ no meio do caminho tinha uma pedra.\u201d"
+    },
+    {
+        "index": 18,
+        "statement": "Leia o trecho destacado do conto \u201cO peru de Natal\u201d, de M\u00e1rio de Andrade, e, em seguida, assinale a alternativa incorreta.",
+        "options": [
+            {
+                "order": "A",
+                "value": "embora n\u00e3o tivessem coragem de admitir, todos os familiares de Juca desejavam aquela comemora\u00e7\u00e3o, a despeito da situa\u00e7\u00e3o constrangedora em que se encontravam."
+            },
+            {
+                "order": "B",
+                "value": "Juca era considerado louco pela fam\u00edlia, por isso todos sentiam pena dele."
+            },
+            {
+                "order": "C",
+                "value": "Juca era considerado louco pela fam\u00edlia, por isso todos tinham medo dele."
+            },
+            {
+                "order": "D",
+                "value": "Juca era considerado louco pela fam\u00edlia, mas n\u00e3o era devidamente tratado por profissionais."
+            },
+            {
+                "order": "E",
+                "value": "a falta que o pai fazia na fam\u00edlia foi motivo para negar o pedido de Juca."
+            }
+        ],
+        "type": 0,
+        "background_text": "\u201cBem que sabiam, era loucura sim, mas todos se faziam imaginar que eu sozinho \u00e9 que estava desejando muito aquilo e havia jeito f\u00e1cil de empurraram pra cima de mim a... culpa de seus desejos enormes.\u201d (p. 72)."
+    }
+]

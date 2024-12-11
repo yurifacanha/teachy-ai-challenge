@@ -1,18 +1,8 @@
 from typing import TypedDict
-from langchain_openai import ChatOpenAI
 from pydantic import BaseModel, Field
-from typing import List,Tuple
+from typing import List
 from typing import Annotated
 import operator
-
-
-# Initialize the AI model
-model = ChatOpenAI(model="gpt-4o",temperature=0)
-
-
-
-# Save each page as a JPEG file using Pillow
-
 
 class Alternatives(BaseModel):
     """Multiple choices alternatives"""

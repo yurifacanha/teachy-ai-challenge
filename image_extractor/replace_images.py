@@ -74,19 +74,12 @@ def random_name(extension):
     return str(uuid.uuid4()) + ".%s" % (extension,)
 
 
-# Function to encode the image
 def convert_image_to_base64(image):
-    # Encode the image to a JPEG format in memory (returns a tuple, where the second element contains the encoded image)
     _, buffer = cv2.imencode(".jpg", image)
-
-    # Convert the buffer to a byte string
     jpg_as_text = base64.b64encode(buffer)
-
-    # Convert byte string to a regular string and return
     return jpg_as_text.decode("utf-8")
 
 
-# Function to calculate the best font scale
 def get_optimal_font_scale(text, width):
     for scale in reversed(range(0, 200, 1)):
         text_size = cv2.getTextSize(text, cv2.QT_FONT_NORMAL, scale / 10, 1)[0]
@@ -98,7 +91,6 @@ def get_optimal_font_scale(text, width):
 def create_blank_image(h, w, object_name):
 
     def find_max_font_size(text, image_width, image_height, font_path):
-        # Start with a large font size and reduce until the text fits
         font_size = image_height
         font = ImageFont.truetype(font_path, font_size)
         text_width = draw.textlength(text, font=font)
@@ -111,20 +103,17 @@ def create_blank_image(h, w, object_name):
         return font_size
 
     
-    color = (0, 0, 0)  # Black color
+    color = (0, 0, 0)  
 
     blank_square = np.ones((h, w, 3), dtype=np.uint8) * 255
-    image_pil = Image.fromarray(blank_square)  # Convert OpenCV image to PIL image
+    image_pil = Image.fromarray(blank_square)  
     draw = ImageDraw.Draw(image_pil)
 
-    # Find the maximum font size that fits within the image
     max_font_size = max(find_max_font_size(object_name, w, h, font_path), 10)
     font = ImageFont.truetype(font_path, max_font_size)
 
-    # Calculate text size
     text_width = draw.textlength(object_name, font=font)
 
-    # Calculate position to center the text
     position = ((w - text_width) // 2, (h - max_font_size) // 2)
 
     draw.text(position, object_name, font=font, fill=color)
@@ -137,17 +126,13 @@ def replace_images(img_name):
     x = images_folder+img_name
     img = cv2.imread(x)
 
-    # Load the model
 
-    results = model([img], conf=0.45, iou=0.6)  # return a list of Results objects
-
-    # Process results list
+    results = model([img], conf=0.45, iou=0.6)  
     for i, result in enumerate(results):
-        boxes = result.boxes.xyxy  # Get the bounding boxes in xyxy format
-        boxes = merge_boxes(boxes, threshold=0.05)  # Merge overlapping bounding boxes
+        boxes = result.boxes.xyxy  
+        boxes = merge_boxes(boxes, threshold=0.05) 
 
         for j, box in enumerate(boxes):
-            # Generate a unique name for each detected object
             object_name = f'<img>{j}</img>'
 
             x1, y1, x2, y2 = map(int, box)  # Convert box coordinates to integers
