@@ -125,8 +125,16 @@ Due to time constraints, the image extraction approach was not fully integrated 
 
 Below is an example of the image extraction process and how placeholders relate to the original content:
 
+##### Original 
+
 ![Source](/image_extractor/images/enem_page_8.png)
-![Placeholders](/image_extractor/inferences/enem_page_8.png)
+
+##### Placeholders
+
+![Placeholders](/image_extractor/inferences/images/enem_page_8.png)
+
+##### Cropped
+
 ![Cropped1](/image_extractor/inferences/detected/0_enem_page_8.png)
 ![Cropped1](/image_extractor/inferences/detected/1_enem_page_8.png)
 
