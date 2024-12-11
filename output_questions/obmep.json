@@ -1,0 +1,562 @@
+[
+    {
+        "index": 1,
+        "statement": "A figura mostra a localiza\u00e7\u00e3o de dois n\u00fameros \\(x\\) e \\(y\\) na reta num\u00e9rica. Qual alternativa apresenta o menor n\u00famero?",
+        "options": [
+            {
+                "order": "A",
+                "value": "\\(x^2\\)"
+            },
+            {
+                "order": "B",
+                "value": "\\(x + y\\)"
+            },
+            {
+                "order": "C",
+                "value": "\\(xy\\)"
+            },
+            {
+                "order": "D",
+                "value": "\\(x/y\\)"
+            },
+            {
+                "order": "E",
+                "value": "\\(x\\)"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 2,
+        "statement": "Na figura, \\(ABCD\\) e \\(BEFC\\) s\u00e3o quadrados, cada um com 60 cm\u00b2 de \u00e1rea. Qual \u00e9 a \u00e1rea, em cm\u00b2, da regi\u00e3o cinza?",
+        "options": [
+            {
+                "order": "A",
+                "value": "50"
+            },
+            {
+                "order": "B",
+                "value": "30"
+            },
+            {
+                "order": "C",
+                "value": "70"
+            },
+            {
+                "order": "D",
+                "value": "100"
+            },
+            {
+                "order": "E",
+                "value": "45"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 3,
+        "statement": "Um celular tem espa\u00e7o para gravar 3 horas de v\u00eddeo em qualidade normal ou 2 horas em alta qualidade. Se j\u00e1 foram gravadas 2 horas de v\u00eddeo em qualidade normal, qual \u00e9 o tempo que resta para gravar v\u00eddeos em alta qualidade?",
+        "options": [
+            {
+                "order": "A",
+                "value": "90 minutos"
+            },
+            {
+                "order": "B",
+                "value": "40 minutos"
+            },
+            {
+                "order": "C",
+                "value": "120 minutos"
+            },
+            {
+                "order": "D",
+                "value": "60 minutos"
+            },
+            {
+                "order": "E",
+                "value": "30 minutos"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 4,
+        "statement": "No quadr\u00edculo, a soma dos elementos de cada linha e de cada coluna s\u00e3o iguais. Qual \u00e9 o valor de \\(a + b - c\\)?",
+        "options": [
+            {
+                "order": "A",
+                "value": "6"
+            },
+            {
+                "order": "B",
+                "value": "7"
+            },
+            {
+                "order": "C",
+                "value": "8"
+            },
+            {
+                "order": "D",
+                "value": "9"
+            },
+            {
+                "order": "E",
+                "value": "10"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 5,
+        "statement": "O desenho a seguir representa um mapa que tem 7 cidades, representadas por pontos, e 5 estradas, representadas por curvas. Qual \u00e9 o menor n\u00famero de estradas que devem ser inclu\u00eddas no desenho para que de cada cidade parta o mesmo n\u00famero de estradas?",
+        "options": [
+            {
+                "order": "A",
+                "value": "9"
+            },
+            {
+                "order": "B",
+                "value": "5"
+            },
+            {
+                "order": "C",
+                "value": "4"
+            },
+            {
+                "order": "D",
+                "value": "10"
+            },
+            {
+                "order": "E",
+                "value": "11"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 6,
+        "statement": "Na sequ\u00eancia de figuras formadas por tri\u00e2ngulos equil\u00e1teros id\u00eanticos, mostrada abaixo, cada figura \u00e9 formada pela figura anterior acrescida da menor quantidade poss\u00edvel de tri\u00e2ngulos que escondem o per\u00edmetro da figura anterior. Quantos tri\u00e2ngulos devem ser adicionados \u00e0 Figura 9 para se obter a Figura 10?",
+        "options": [
+            {
+                "order": "A",
+                "value": "24"
+            },
+            {
+                "order": "B",
+                "value": "21"
+            },
+            {
+                "order": "C",
+                "value": "30"
+            },
+            {
+                "order": "D",
+                "value": "27"
+            },
+            {
+                "order": "E",
+                "value": "18"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 7,
+        "statement": "Vinte e quatro retas s\u00e3o desenhadas no plano de modo que cada reta seja paralela a exatamente outras tr\u00eas. Al\u00e9m disso, n\u00e3o h\u00e1 tr\u00eas retas que se cruzem em um mesmo ponto. Qual \u00e9 o n\u00famero total de pontos de interse\u00e7\u00e3o entre essas retas?",
+        "options": [
+            {
+                "order": "A",
+                "value": "276"
+            },
+            {
+                "order": "B",
+                "value": "120"
+            },
+            {
+                "order": "C",
+                "value": "200"
+            },
+            {
+                "order": "D",
+                "value": "240"
+            },
+            {
+                "order": "E",
+                "value": "169"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 8,
+        "statement": "Os 45 alunos de uma turma compraram os 100 bilhetes de um sorteio, em diferentes quantidades, de acordo com a tabela. \u00c9 mais prov\u00e1vel que o bilhete sorteado tenha sido comprado por um aluno que comprou 1, 2, 3, 4 ou 5 bilhetes?",
+        "options": [
+            {
+                "order": "A",
+                "value": "5 bilhetes"
+            },
+            {
+                "order": "B",
+                "value": "2 bilhetes"
+            },
+            {
+                "order": "C",
+                "value": "4 bilhetes"
+            },
+            {
+                "order": "D",
+                "value": "3 bilhetes"
+            },
+            {
+                "order": "E",
+                "value": "1 bilhete"
+            }
+        ],
+        "type": 0,
+        "background_text": "\\[\\begin{array}{|c|c|}\\hline\\text{Quantidade de bilhetes} & \\text{N\u00famero de alunos que compraram essa quantidade de bilhetes} \\\\\\hline1 & 16 \\\\\\2 & 14 \\\\\\3 & 7 \\\\\\4 & 5 \\\\\\5 & 3 \\\\\\hline\\end{array}\\]"
+    },
+    {
+        "index": 9,
+        "statement": "Um m\u00e1gico tem quatro coelhos de cores diferentes e quatro cartolas numeradas de 1 a 4. De quantas maneiras distintas dois coelhos podem ficar em uma mesma cartola e os outros dois em outra?",
+        "options": [
+            {
+                "order": "A",
+                "value": "360"
+            },
+            {
+                "order": "B",
+                "value": "72"
+            },
+            {
+                "order": "C",
+                "value": "36"
+            },
+            {
+                "order": "D",
+                "value": "16"
+            },
+            {
+                "order": "E",
+                "value": "4"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 10,
+        "statement": "O tri\u00e2ngulo \\(ABC\\) da figura \u00e9 is\u00f3sceles e sua base \\(AB\\) mede 8 cm. Os pontos \\(M\\) e \\(N\\) s\u00e3o pontos m\u00e9dios dos lados \\(AC\\) e \\(BC\\), respectivamente. Qual \u00e9 o per\u00edmetro, em cent\u00edmetros, do tri\u00e2ngulo \\(ABC\\)?",
+        "options": [
+            {
+                "order": "A",
+                "value": "32"
+            },
+            {
+                "order": "B",
+                "value": "30"
+            },
+            {
+                "order": "C",
+                "value": "38"
+            },
+            {
+                "order": "D",
+                "value": "34"
+            },
+            {
+                "order": "E",
+                "value": "36"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 11,
+        "statement": "Pedro colocou os n\u00fameros 1, 2, 3, 4 e 5 nas casas do tabuleiro abaixo, um n\u00famero em cada casa, sem repetir n\u00fameros nas linhas e nas colunas. Em seguida, ele somou os oito n\u00fameros colocados na primeira e na \u00faltima colunas. Qual dos n\u00fameros abaixo n\u00e3o pode ser um resultado para a soma que Pedro fez?",
+        "options": [
+            {
+                "order": "A",
+                "value": "20"
+            },
+            {
+                "order": "B",
+                "value": "23"
+            },
+            {
+                "order": "C",
+                "value": "26"
+            },
+            {
+                "order": "D",
+                "value": "25"
+            },
+            {
+                "order": "E",
+                "value": "21"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 12,
+        "statement": "Considere um hex\u00e1gono regular de \u00e1rea 1 e todos os tri\u00e2ngulos cujos v\u00e9rtices s\u00e3o tamb\u00e9m v\u00e9rtices do hex\u00e1gono. Qual \u00e9 a soma das \u00e1reas de todos esses tri\u00e2ngulos?",
+        "options": [
+            {
+                "order": "A",
+                "value": "6"
+            },
+            {
+                "order": "B",
+                "value": "7"
+            },
+            {
+                "order": "C",
+                "value": "5"
+            },
+            {
+                "order": "D",
+                "value": "4"
+            },
+            {
+                "order": "E",
+                "value": "3"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 13,
+        "statement": "Uma folha quadrada de papel, branca de um lado e cinza do outro, tem \u00e1rea igual a \\(75 \\, \\text{cm}^2\\). A folha \u00e9 dobrada de modo que o v\u00e9rtice \\(P\\) seja levado a um ponto \\(P'\\) da diagonal \\(PR\\), conforme a figura. Depois da dobra, as partes branca e cinza vis\u00edveis ficaram com a mesma \u00e1rea. Qual \u00e9 a dist\u00e2ncia, em cent\u00edmetros, do ponto \\(P'\\) at\u00e9 o ponto \\(P\\)?",
+        "options": [
+            {
+                "order": "A",
+                "value": "7,0"
+            },
+            {
+                "order": "B",
+                "value": "6,0"
+            },
+            {
+                "order": "C",
+                "value": "7,5"
+            },
+            {
+                "order": "D",
+                "value": "5,0"
+            },
+            {
+                "order": "E",
+                "value": "10,0"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 14,
+        "statement": "Em um conjunto de n\u00fameros inteiros positivos, a m\u00e9dia aritm\u00e9tica dos dois maiores \u00e9 50, dos tr\u00eas maiores \u00e9 48, dos quatro maiores \u00e9 46 e assim por diante, diminuindo de 2 em 2. Qual \u00e9 o menor n\u00famero que pode pertencer a esse conjunto?",
+        "options": [
+            {
+                "order": "A",
+                "value": "2"
+            },
+            {
+                "order": "B",
+                "value": "1"
+            },
+            {
+                "order": "C",
+                "value": "5"
+            },
+            {
+                "order": "D",
+                "value": "4"
+            },
+            {
+                "order": "E",
+                "value": "3"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 15,
+        "statement": "As figuras mostram as vistas de frente, de cima e da esquerda de um s\u00f3lido montado com cubos iguais. Quantos cubos tem esse s\u00f3lido?",
+        "options": [
+            {
+                "order": "A",
+                "value": "16"
+            },
+            {
+                "order": "B",
+                "value": "14"
+            },
+            {
+                "order": "C",
+                "value": "13"
+            },
+            {
+                "order": "D",
+                "value": "15"
+            },
+            {
+                "order": "E",
+                "value": "12"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 16,
+        "statement": "Ana comprou o ingresso com n\u00famero de assento 100 em um teatro com assentos numerados de 1 a 120. A figura mostra a numera\u00e7\u00e3o de alguns assentos, com poltronas pares de um lado e \u00edmpares do outro, em ordem crescente a partir do corredor. Os demais assentos seguem o mesmo padr\u00e3o de numera\u00e7\u00e3o. Pedro quer sentar o mais pr\u00f3ximo poss\u00edvel de Ana e s\u00f3 restam os ingressos para os assentos 94, 99, 101, 102 e 112. Qual \u00e9 o n\u00famero do assento que Pedro deve comprar?",
+        "options": [
+            {
+                "order": "A",
+                "value": "102"
+            },
+            {
+                "order": "B",
+                "value": "99"
+            },
+            {
+                "order": "C",
+                "value": "112"
+            },
+            {
+                "order": "D",
+                "value": "101"
+            },
+            {
+                "order": "E",
+                "value": "94"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 17,
+        "statement": "Ana, Bia e Carla visitaram a floricultura de seu bairro. O vendedor separou as 5 flores mostradas na figura e disse que iria presentear cada uma com uma dessas flores. Carla escutou a seguinte conversa entre Bia e Ana: \u2014 Bia disse: \u201cOi Ana, eu e Carla sabemos a cor de cada uma das flores que vamos ganhar, mas nem eu nem ela sabemos as quantidades de p\u00e9talas das flores que cada uma de n\u00f3s ir\u00e1 ganhar\u201d. \u2014 Ana disse: \u201cEu sei a quantidade de p\u00e9talas da flor que vou ganhar, mas n\u00e3o sei a cor\u201d. A partir dessa conversa, Carla descobriu a flor que Ana vai ganhar. Qual \u00e9 essa flor?",
+        "options": [
+            {
+                "order": "A",
+                "value": ""
+            },
+            {
+                "order": "B",
+                "value": ""
+            },
+            {
+                "order": "C",
+                "value": ""
+            },
+            {
+                "order": "D",
+                "value": ""
+            },
+            {
+                "order": "E",
+                "value": ""
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 18,
+        "statement": "Oito pessoas, incluindo os irm\u00e3os Ant\u00f4nio, Bruno e Carlos, v\u00e3o passear em 4 canoas diferentes. Em cada canoa v\u00e3o sentar 2 pessoas. As 8 pessoas s\u00e3o distribu\u00eddas aleatoriamente entre as 4 canoas. Qual \u00e9 a probabilidade de que dois irm\u00e3os quaisquer n\u00e3o fiquem juntos em uma mesma canoa?",
+        "options": [
+            {
+                "order": "A",
+                "value": "\\[ \\frac{4}{7} \\]"
+            },
+            {
+                "order": "B",
+                "value": "\\[ \\frac{2}{7} \\]"
+            },
+            {
+                "order": "C",
+                "value": "\\[ \\frac{1}{9} \\]"
+            },
+            {
+                "order": "D",
+                "value": "\\[ \\frac{2}{3} \\]"
+            },
+            {
+                "order": "E",
+                "value": "\\[ \\frac{6}{8} \\]"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 19,
+        "statement": "Jo\u00e3ozinho tem tr\u00eas dados com faces numeradas de 1 a 6. Nesses dados, a soma dos n\u00fameros em faces opostas \u00e9 sempre 7. Ele empilhou os dados de tal forma que os n\u00fameros em cada par de faces em contato somam 5 e o n\u00famero 1 ficou vis\u00edvel, como indicado na figura. Qual \u00e9 o n\u00famero que ficou na face superior da pilha?",
+        "options": [
+            {
+                "order": "A",
+                "value": "6"
+            },
+            {
+                "order": "B",
+                "value": "2"
+            },
+            {
+                "order": "C",
+                "value": "5"
+            },
+            {
+                "order": "D",
+                "value": "3"
+            },
+            {
+                "order": "E",
+                "value": "4"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 20,
+        "statement": "Uma competi\u00e7\u00e3o de matem\u00e1tica consiste de uma prova com tr\u00eas problemas. Cada aluno pode obter nota 0, 1 ou 2 em cada problema. Ap\u00f3s a corre\u00e7\u00e3o das provas, constatou-se que n\u00e3o existiam dois alunos com notas iguais nos mesmos dois problemas. Qual \u00e9 o n\u00famero m\u00e1ximo de alunos que podem ter participado da competi\u00e7\u00e3o?",
+        "options": [
+            {
+                "order": "A",
+                "value": "8"
+            },
+            {
+                "order": "B",
+                "value": "12"
+            },
+            {
+                "order": "C",
+                "value": "6"
+            },
+            {
+                "order": "D",
+                "value": "16"
+            },
+            {
+                "order": "E",
+                "value": "9"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    }
+]

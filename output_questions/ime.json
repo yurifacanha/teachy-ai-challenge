@@ -1,0 +1,170 @@
+[
+    {
+        "index": 16,
+        "statement": "Um proj\u00e9til de chumbo est\u00e1 a uma temperatura de 175 \u00b0C quando atinge uma parede e nela se aloja. Considere que 25% da energia cin\u00e9tica do proj\u00e9til imediatamente antes da colis\u00e3o permane\u00e7a nele como energia interna. Se a energia interna que permanece ap\u00f3s o proj\u00e9til atingir a parede \u00e9 justamente a m\u00ednima para que ocorra a fus\u00e3o total do chumbo, a velocidade do proj\u00e9til imediatamente antes da colis\u00e3o, em m/s, \u00e9:",
+        "options": [
+            {
+                "order": "A",
+                "value": "30"
+            },
+            {
+                "order": "B",
+                "value": "150"
+            },
+            {
+                "order": "C",
+                "value": "400"
+            },
+            {
+                "order": "D",
+                "value": "450"
+            },
+            {
+                "order": "E",
+                "value": "600"
+            }
+        ],
+        "type": 0,
+        "background_text": "Dados: - calor espec\u00edfico do chumbo: 125 J/(kg. \u00b0C); - temperatura de fus\u00e3o do chumbo: 327 \u00b0C; - calor latente de fus\u00e3o do chumbo: 26.000 J/kg."
+    },
+    {
+        "index": 17,
+        "statement": "Um recipiente vazio de formato c\u00f4nico est\u00e1 parcialmente imerso na \u00e1gua e em equil\u00edbrio, como geometria apresentada na figura. Insere-se no interior do recipiente uma part\u00edcula de massa \\[ m = K \\rho \\pi h^3 \\], onde \\( K \\) \u00e9 uma constante, \\(\\rho\\) \u00e9 a massa espec\u00edfica da \u00e1gua e \\( h \\) est\u00e1 indicado na figura. Ap\u00f3s essa inser\u00e7\u00e3o, o recipiente sofre um pequeno deslocamento, afundando uma altura \\(\\Delta h\\). A altura \\(\\Delta h\\) que o recipiente ir\u00e1 afundar at\u00e9 o novo ponto de equil\u00edbrio \u00e9:",
+        "options": [
+            {
+                "order": "A",
+                "value": "Kh/3"
+            },
+            {
+                "order": "B",
+                "value": "Kh/6"
+            },
+            {
+                "order": "C",
+                "value": "Kh"
+            },
+            {
+                "order": "D",
+                "value": "3Kh"
+            },
+            {
+                "order": "E",
+                "value": "2Kh"
+            }
+        ],
+        "type": 0,
+        "background_text": "Dado: - acelera\u00e7\u00e3o da gravidade: \\( g \\). Observa\u00e7\u00f5es: - a espessura do recipiente \u00e9 muito pequena; - \\(\\Delta h \\ll h\\); - para \\(|\\alpha| \\ll 1\\), \\((1 + \\alpha)^n \\approx 1 + n\\alpha\\)."
+    },
+    {
+        "index": 18,
+        "statement": "A figura mostra dois raios paralelos de luz que viajam em fase no v\u00e1cuo at\u00e9 que um deles encontra uma pel\u00edcula. A condi\u00e7\u00e3o necess\u00e1ria e suficiente para que os raios continuem viajando em fase ap\u00f3s o raio de baixo deixar a pel\u00edcula \u00e9:",
+        "options": [
+            {
+                "order": "A",
+                "value": "\\[\\frac{(n^2 - 1)df}{c}\\] deve ser um n\u00famero inteiro \u00edmpar"
+            },
+            {
+                "order": "B",
+                "value": "\\[\\frac{(n^2 - 1)df}{c}\\] deve ser um n\u00famero inteiro par"
+            },
+            {
+                "order": "C",
+                "value": "\\[\\frac{(n - 1)df}{c}\\] deve ser um n\u00famero inteiro"
+            },
+            {
+                "order": "D",
+                "value": "\\[\\frac{2(n - 1)df}{c}\\] deve ser um n\u00famero inteiro \u00edmpar"
+            },
+            {
+                "order": "E",
+                "value": "\\[\\frac{2(n + 1)df}{c}\\] deve ser um n\u00famero inteiro par"
+            }
+        ],
+        "type": 0,
+        "background_text": "Dados: - espessura da pel\u00edcula: \\(d\\); - \u00edndice de refra\u00e7\u00e3o da pel\u00edcula: \\(n\\); - frequ\u00eancia dos raios de luz: \\(f\\); - velocidade da luz no v\u00e1cuo: \\(c\\). Observa\u00e7\u00e3o: - a medida de diferen\u00e7a de fase entre os raios tem como refer\u00eancia um plano ortogonal a eles."
+    },
+    {
+        "index": 19,
+        "statement": "O sistema da figura \u00e9 montado com o objetivo de determinar a resist\u00eancia el\u00e9trica de uma espira condutora de \u00e1rea \\( A \\). O centro dessa espira descreve uma trajet\u00f3ria circular de raio \\( R \\) e per\u00edodo \\( t \\), \u00e0 velocidade angular constante, ao redor de um fio tamb\u00e9m condutor com uma corrente el\u00e9trica cont\u00ednua \\( I \\). A corrente el\u00e9trica na espira \u00e9 medida e seu valor oscila harmonicamente entre \\( +i \\) e \\(-i\\). Dados: - \u00e1rea da espira: \\( A = 1 \\, \\text{cm}^2 \\); - raio da trajet\u00f3ria do centro da espira: \\( R = 10 \\, \\text{cm} \\); - per\u00edodo da trajet\u00f3ria circular do centro da espira: \\( t = 2 \\, \\text{s} \\); - corrente el\u00e9trica cont\u00ednua do fio condutor: \\( I = 50 \\, \\text{A} \\); - amplitude da corrente el\u00e9trica induzida medida na espira: \\( i = 1 \\, \\text{mA} \\); - permeabilidade magn\u00e9tica no v\u00e1cuo: \\(\\mu = 4\\pi \\times 10^{-7} \\, \\text{T.m/A} \\). Observa\u00e7\u00f5es: - o sistema segue a orienta\u00e7\u00e3o dos eixos xyz desenhados na figura; - o fio condutor \u00e9 paralelo ao eixo z; - o eixo da espira est\u00e1 sempre paralelo ao eixo y; - o plano da espira \u00e9 sempre paralelo ao plano xz; - o plano da trajet\u00f3ria do centro da espira \u00e9 paralelo ao plano xy; - considere que as linhas de campo magn\u00e9tico que atravessam a espira estejam paralelas; - para toda frequ\u00eancia \\( f \\), considere \\[ \\frac{\\Delta \\sen(2\\pi f t)}{\\Delta t} = 2\\pi f \\cos(2\\pi f t). \\] A resist\u00eancia da espira, em \\(\\mu \\Omega\\), \u00e9:",
+        "options": [
+            {
+                "order": "A",
+                "value": "20\\pi"
+            },
+            {
+                "order": "B",
+                "value": "2,5\\pi"
+            },
+            {
+                "order": "C",
+                "value": "4\\pi"
+            },
+            {
+                "order": "D",
+                "value": "5\\pi"
+            },
+            {
+                "order": "E",
+                "value": "10\\pi"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 20,
+        "statement": "Dois gases perfeitos, \\( G_1 \\) e \\( G_2 \\), est\u00e3o contidos em recipientes r\u00edgidos, separados por um \u00eambolo que se move sem atrito por um tubo longo de \u00e1rea de se\u00e7\u00e3o transversal \\( S \\), conforme a figura. Cada um dos gases possui volume inicial \\( V \\), a uma temperatura de 27 \u00b0C. Considere a seguinte transforma\u00e7\u00e3o isob\u00e1rica do conjunto: a temperatura de \\( G_1 \\) aumenta 100 \u00b0C e a de \\( G_2 \\) diminui 100 \u00b0C. A express\u00e3o que representa o deslocamento \\( x \\) do \u00eambolo at\u00e9 o novo ponto de equil\u00edbrio \u00e9:",
+        "options": [
+            {
+                "order": "A",
+                "value": "\\frac{2V}{3S}"
+            },
+            {
+                "order": "B",
+                "value": "\\frac{3V}{2S}"
+            },
+            {
+                "order": "C",
+                "value": "\\frac{V}{2S}"
+            },
+            {
+                "order": "D",
+                "value": "\\frac{V}{3S}"
+            },
+            {
+                "order": "E",
+                "value": "\\frac{V}{6S}"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    },
+    {
+        "index": 21,
+        "statement": "Inicialmente, um poste, fabricado com material de coeficiente de dilata\u00e7\u00e3o volum\u00e9trica \\(\\gamma\\), tem as dimens\u00f5es indicadas na figura, estando o ponto A fixo. Ao ser submetido a um aumento de temperatura \\( T \\), o ponto B \u00e9 deslocado de:",
+        "options": [
+            {
+                "order": "A",
+                "value": "\\frac{\\sqrt{17}\\gamma TL}{4}"
+            },
+            {
+                "order": "B",
+                "value": "\\frac{5\\gamma TL}{12}"
+            },
+            {
+                "order": "C",
+                "value": "\\frac{\\sqrt{17}\\gamma TL}{21}"
+            },
+            {
+                "order": "D",
+                "value": "\\frac{\\sqrt{17}\\gamma TL}{12}"
+            },
+            {
+                "order": "E",
+                "value": "\\frac{\\gamma TL}{4}"
+            }
+        ],
+        "type": 0,
+        "background_text": ""
+    }
+]

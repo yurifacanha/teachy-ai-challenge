@@ -1,0 +1,72 @@
+[
+    {
+        "index": 1,
+        "statement": "Calcule o(s) valor(es) de k real(is) para que o determinante da matriz abaixo seja igual a 24. \\[\\begin{bmatrix} 1 & 3 & 1 & 2 \\\\ 1 & k & 0 & 2 \\\\ 2 & 1 & 0 & 3 \\\\ 4 & 1 & -1 & 3 \\end{bmatrix}\\]",
+        "options": [],
+        "type": 1,
+        "background_text": ""
+    },
+    {
+        "index": 2,
+        "statement": "Calcule os valores reais de \\( x \\) que satisfa\u00e7am a inequa\u00e7\u00e3o \\(\\sqrt{\\log_3(x)} + 1 + \\frac{1}{3} \\log_3(x^2) + \\frac{7}{3} > 0\\).",
+        "options": [],
+        "type": 1,
+        "background_text": ""
+    },
+    {
+        "index": 3,
+        "statement": "Considere uma progress\u00e3o aritm\u00e9tica (PA) de n\u00fameros inteiros com raz\u00e3o \\( p > 2 \\), seu primeiro termo maior do que 2 e seu \u00faltimo termo menor do que 47. Retirando-se uma determinada quantidade de elementos da PA, recai-se em uma PG de 3 elementos e raz\u00e3o \\( q > 2 \\). Para \\( p \\) e \\( q \\) inteiros, \\( p \\) diferente de \\( q \\), determine a PA cuja soma de seus elementos seja a maior poss\u00edvel.",
+        "options": [],
+        "type": 1,
+        "background_text": ""
+    },
+    {
+        "index": 4,
+        "statement": "Seja o polin\u00f4mio \\( 1 - y + y^2 - y^3 + \\cdots - y^{19} + y^{20} \\) que pode ser escrito da seguinte forma  \\[\\alpha_0 + \\alpha_1 x + \\alpha_2 x^2 + \\alpha_3 x^3 + \\alpha_4 x^4 + \\cdots + \\alpha_{19} x^{19} + \\alpha_{20} x^{20}\\] onde \\( x = y + 1 \\) e \\( \\alpha_i \\) s\u00e3o constantes reais. Calcule o valor num\u00e9rico de \\( \\alpha_3 \\).",
+        "options": [],
+        "type": 1,
+        "background_text": ""
+    },
+    {
+        "index": 5,
+        "statement": "Determine o lugar geom\u00e9trico dos pontos \\( h \\) do plano complexo \\( h = \\frac{4 + w + 2i}{2 - wi} \\), em que \\( w \\in \\mathbb{R} \\) e \\( i^2 = -1 \\).",
+        "options": [],
+        "type": 1,
+        "background_text": ""
+    },
+    {
+        "index": 6,
+        "statement": "Suponha que cada pacote do cereal CROK contenha um cupom com uma das letras da palavra CROK. Um consumidor que tenha todas as letras desse cereal ganha um pacote. Considere que todas as letras tenham a mesma probabilidade de aparecer no pacote. Determine a probabilidade de que um consumidor que comprou 10 pacotes desse cereal ganhe pelo menos um pacote.",
+        "options": [],
+        "type": 1,
+        "background_text": ""
+    },
+    {
+        "index": 7,
+        "statement": "Seja \\( ABC \\) um tri\u00e2ngulo tal que \\( 2\\sen(\\hat{A}) - \\sen(\\hat{B}) - \\sen(\\hat{C}) = 0 \\). Prove que o valor de \\(\\cotg \\frac{\\hat{B}}{2} \\cotg \\frac{\\hat{C}}{2}\\) \u00e9 um n\u00famero inteiro e o determine. Observa\u00e7\u00e3o: \\(\\cotg(\\hat{A})\\) \u00e9 a cotangente do \u00e2ngulo \\(\\hat{A}\\).",
+        "options": [],
+        "type": 1,
+        "background_text": ""
+    },
+    {
+        "index": 8,
+        "statement": "Considere as retas que cont\u00eam o ponto \\( C(3, 3) \\) e interceptam os eixos coordenados \\( x \\) e \\( y \\) nos pontos \\( A \\) e \\( B \\), respectivamente. O ponto \\( P \\) pertence \u00e0 reta \\( AB \\) e sua dist\u00e2ncia do ponto \\( A \\) \u00e9 a ter\u00e7a parte do comprimento do segmento \\( AB \\). Identifique o lugar geom\u00e9trico do ponto \\( P \\) e escreva a sua equa\u00e7\u00e3o.",
+        "options": [],
+        "type": 1,
+        "background_text": ""
+    },
+    {
+        "index": 9,
+        "statement": "Sejam os pontos \\( D, E \\) e \\( F \\) pertencentes, respectivamente, aos lados \\( AB, BC \\) e \\( AC \\) do tri\u00e2ngulo \\( ABC \\), tais que \\( BD = 3AD, AF = 3CF \\) e \\( CE = 3BE \\). Sendo \\( P = AE \\cap CD, Q = AE \\cap BF \\) e \\( R = BF \\cap CD \\), calcule \\(\\frac{[PQR]}{[ABC]}\\). Observa\u00e7\u00e3o: \\([XYZ]\\) \u00e9 a \u00e1rea do tri\u00e2ngulo \\( XYZ \\).",
+        "options": [],
+        "type": 1,
+        "background_text": ""
+    },
+    {
+        "index": 10,
+        "statement": "Um paralelep\u00edpedo obl\u00edquo \\( ABCD - EFGH \\) possui todas as arestas com comprimento \\( a \\). O plano que cont\u00e9m \\( ABFE \\) forma um \u00e2ngulo de \\( 60^\\circ \\) com o plano que cont\u00e9m \\( ABCD \\). O \u00e2ngulo do v\u00e9rtice \\( E \\) da face \\( ABFE \\) \u00e9 \\( 120^\\circ \\). Se \\( \\theta \\) for o \u00e2ngulo do v\u00e9rtice \\( E \\) do paralelogramo contido na base superior \\( EFGH \\) do paralelep\u00edpedo, determine o volume do paralelep\u00edpedo em fun\u00e7\u00e3o da aresta \\( a \\) e do \u00e2ngulo \\( \\theta \\).",
+        "options": [],
+        "type": 1,
+        "background_text": ""
+    }
+]
