@@ -93,7 +93,7 @@ The solution is based on a **LangGraph pipeline approach** using the **MapReduce
 
 The process is illustrated in the image below:
 
-![Process Overview](path/to/your/image.png)
+![Process Overview](process.png)
 
 This structured approach ensures scalability, accuracy, and efficiency, leveraging parallelism and robust question extraction methods. Let me know if you want to refine or add further details!
 
