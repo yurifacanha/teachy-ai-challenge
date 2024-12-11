@@ -138,3 +138,14 @@ Below is an example of the image extraction process and how placeholders relate 
 ![Cropped1](/image_extractor/inferences/detected/0_enem_page_8.png)
 ![Cropped1](/image_extractor/inferences/detected/1_enem_page_8.png)
 
+
+## Final Considerations
+
+1. **Image Impact**:
+   - The quality of the results is sometimes reduced because images within the PDF pages may contain text. 
+   - A well-executed image extraction process could significantly improve the accuracy of the results by isolating textual content from images and processing them separately.
+
+2. **Background Text Challenges**:
+   - Background text requires special attention during extraction.
+   - A more robust solution for handling and extracting background text could enhance the overall quality and consistency of the extracted data.
+
